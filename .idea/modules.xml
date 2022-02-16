@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Prog2.iml" filepath="$PROJECT_DIR$/Prog2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Övning 1/Övning 1.iml" filepath="$PROJECT_DIR$/Övning 1/Övning 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Övning 2/Övning 2.iml" filepath="$PROJECT_DIR$/Övning 2/Övning 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Övning 3/Övning 3.iml" filepath="$PROJECT_DIR$/Övning 3/Övning 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Övning 4/Övning 4.iml" filepath="$PROJECT_DIR$/Övning 4/Övning 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Övning 5/Övning 5.iml" filepath="$PROJECT_DIR$/Övning 5/Övning 5.iml" />
+    </modules>
+  </component>
+</project>
